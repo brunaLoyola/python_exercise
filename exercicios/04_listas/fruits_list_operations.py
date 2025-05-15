@@ -11,3 +11,18 @@ Etapas:
 Criado por: Bruna Loyola
 Data: 02/05/2025
 """
+
+#Lista de frutas já com as frutas declaradas
+frutas = ["uva", "pera", "maca", "banana", "amora"]
+
+#Adicionando uma fruta na ultima posição da lista
+frutas.append("framboesa")
+
+#Exibindo a lista atualizada
+print(frutas)
+
+#Removendo o primeiro item da lista
+frutas.pop(0)
+
+#Exibindo a lista atualizada
+print(frutas)
