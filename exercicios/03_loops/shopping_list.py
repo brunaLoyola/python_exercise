@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Solicitar ao usuário que adicione itens a uma lista;
     2. Exibir a lista completa ao final e informar quantos itens ela contém.
-
-Criado por: Bruna Loyola
-Data: 29/04/2025
 """
 
 #Declara uma váriavel do tipo lista vazia

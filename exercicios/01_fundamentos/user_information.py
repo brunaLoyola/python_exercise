@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Solicitar nome, idade e altura do usuário;
     2. Exibir o tipo de cada variável e uma mensagem com as informações fornecidas.
-
-Criado por: Bruna Loyola
-Data: 27/04/2025
 """
 
 #Obtém informações do usuário e as convertem quando necessário em inteiro ou float

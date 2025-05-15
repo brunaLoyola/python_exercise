@@ -6,11 +6,7 @@ Etapas:
     1. Criar variáveis com tipos distintos;
     2. Utilizar a função type() para identificar os tipos;
     3. Exibir os resultados na tela.
-
-Criado por: Bruna Loyola
-Data: 27/04/2025
 """
-
 
 #Declaração de variáveis com  tipos diferente
 nome = 'Bruna'              # str

@@ -7,9 +7,6 @@ Etapas:
     2. Somar os valores;
     3. Dividir pela quantidade de elementos;
     4. Retornar a média.
-
-Criado por: Bruna Loyola
-Data: 04/05/2025
 """
 
 lista_numeros = []

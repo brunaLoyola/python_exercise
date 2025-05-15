@@ -6,9 +6,6 @@ Etapas:
     1. Mostrar nome em maiúsculas e minúsculas;
     2. Contar letras desconsiderando espaços;
     3. Mostrar primeiro nome e quantas letras ele tem.
-
-Criado por: Bruna Loyola  
-Data: 02/05/2025
 """
 
 #Pede o nome completo do usuário

@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Solicitar um número inteiro ao usuário;
     2. Verificar se o número é primo ou não.
-
-Criado por: Bruna Loyola
-Data: 28/04/2025
 """
 
 #Obtém um número e converte para inteiro

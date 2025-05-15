@@ -10,9 +10,6 @@ Etapas:
     5. Remover o terceiro nome;
     6. Verificar o tamanho da lista;
     7. Verificar se um nome está presente.
-
-Criado por: Bruna Loyola
-Data: 01/05/2025
 """
 
 

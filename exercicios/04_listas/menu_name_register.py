@@ -7,9 +7,6 @@ Etapas:
     2. Utilizar laço de repetição while e input para navegação;
     3. Armazenar nomes em uma lista e exibir quando solicitado;
     4. Encerrar o programa ao selecionar a opção de sair.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 
 #Declarando uma lista vazia que será utilizada

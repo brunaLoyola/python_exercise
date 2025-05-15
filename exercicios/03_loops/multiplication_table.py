@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Solicitar um número do usuário;
     2. Exibir a tabuada desse número de 1 a 10.
-
-Criado por: Bruna Loyola
-Data: 29/04/2025
 """
 
 #Obtém um número 

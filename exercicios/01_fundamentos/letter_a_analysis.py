@@ -6,9 +6,6 @@ Etapas:
     1. Contar quantas vezes "a" aparece;
     2. Mostrar posição da primeira ocorrência;
     3. Mostrar posição da última ocorrência.
-
-Criado por: Bruna Loyola  
-Data: 02/05/2025
 """
 
 #Pede ao usuário que digite uma frase e transforma todas as letras em minuscula

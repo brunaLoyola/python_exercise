@@ -7,9 +7,6 @@ Etapas:
     2. Adicionar uma fruta nova;
     3. Remover a primeira fruta;
     4. Exibir a lista final.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 
 #Lista de frutas já com as frutas declaradas

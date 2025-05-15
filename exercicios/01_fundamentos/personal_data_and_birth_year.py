@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar nome, idade e peso do usuário;
     2. Calcular o ano de nascimento;
     3. Exibir os dados organizadamente.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 
 #Importa o módulo datetime para acessar a data atual

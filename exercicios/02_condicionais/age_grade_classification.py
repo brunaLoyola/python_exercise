@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Perguntar a idade da pessoa e classificar como criança, adolescente ou adulto;
     2. Perguntar a nota do usuário e determinar seu status: aprovado, recuperação ou reprovado.
-
-Criado por: Bruna Loyola
-Data: 27/04/2025
 """
 
 #Obtém a idade do usuário

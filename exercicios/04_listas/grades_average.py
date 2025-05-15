@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar quatro notas ao aluno;
     2. Calcular a média e exibir se o aluno foi aprovado, de recuperação ou reprovado;
     3. Exibir também a maior e menor nota.
-
-Criado por: Bruna Loyola
-Data: 30/04/2025
 """
 
 lista_numeros = []

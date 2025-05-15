@@ -7,9 +7,6 @@ Etapas:
     2. Realizar união e repetição;
     3. Utilizar funções: max(), min(), sum(), sorted(), reversed();
     4. Aplicar métodos: append, insert, remove, pop, count, index, copy, extend.
-
-Criado por: Bruna Loyola
-Data: 01/05/2025
 """
 
 

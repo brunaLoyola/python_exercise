@@ -7,9 +7,6 @@ Etapas:
     2. Somar os valores digitados;
     3. Encerrar quando o número zero for digitado;
     4. Exibir a soma total.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 
 #Declara duas variaveis inteiras que serão tratadas

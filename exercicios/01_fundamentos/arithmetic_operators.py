@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Receber dois números inteiros do usuário;
     2. Exibir os resultados de soma, subtração, multiplicação, divisão, potência e resto da divisão.
-
-Criado por: Bruna Loyola
-Data: 27/04/2025
 """
 
 #Usuario insere dois números inteiros

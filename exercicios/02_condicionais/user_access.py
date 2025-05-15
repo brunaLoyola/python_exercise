@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar nome, idade e email do usuário;
     2. Negar o acesso se a idade for menor que 18 anos;
     3. Exibir um resumo do cadastro se a idade for 18 ou maior.
-
-Criado por: Bruna Loyola
-Data: 28/04/2025
 """
 
 #Obtém as informações com o usuário

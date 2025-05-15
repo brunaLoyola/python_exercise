@@ -6,9 +6,6 @@ Etapas:
     1. Utilizar a função print();
     2. Exibir uma mensagem de saudação;
     3. Exibir o nome da autora.
-
-Criado por: Bruna Loyola
-Data: 27/04/2025
 """
 
 #Imprime a frase "Hello World!" 

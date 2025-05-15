@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Criar um contador que imprima números de 1 até 5;
     2. Criar um loop que permita a entrada de senha até que a senha correta seja informada.
-
-Criado por: Bruna Loyola
-Data: 28/04/2025
 """
 
 #Inicializando o contador com 1

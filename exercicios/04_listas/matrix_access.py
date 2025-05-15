@@ -6,9 +6,6 @@ Etapas:
     1. Criar uma matriz 3x3;
     2. Exibir a terceira linha;
     3. Exibir o elemento da linha 3, coluna 2.
-
-Criado por: Bruna Loyola
-Data: 01/05/2025
 """
 
 

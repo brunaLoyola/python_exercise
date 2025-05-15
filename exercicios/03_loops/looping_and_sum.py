@@ -6,9 +6,6 @@ Etapas:
     1. Imprimir números de 1 a 10;
     2. Imprimir números pares de 0 a 20;
     3. Calcular a soma de 1 a 100 e exibir o resultado.
-
-Criado por: Bruna Loyola
-Data: 29/04/2025
 """
 
 #Imprime os números de 1 a 10

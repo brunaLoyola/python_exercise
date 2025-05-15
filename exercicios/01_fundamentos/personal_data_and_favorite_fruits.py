@@ -7,9 +7,6 @@ Etapas:
     2. Criar lista com 3 frutas favoritas;
     3. Criar dicionário com os dados pessoais;
     4. Exibir todas as informações organizadas.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 
 #Obtém as informações do usuário

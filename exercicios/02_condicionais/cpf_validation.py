@@ -6,9 +6,6 @@ Etapas:
     1. Receber CPF com pontuação;
     2. Remover pontos e traços;
     3. Verificar se contém 11 dígitos numéricos.
-
-Criado por: Bruna Loyola  
-Data: 04/05/2025
 """
 
 #Obtém o cpf do usuário, utilizando o .replace(), ele retira os .(pontos) e -(traços)

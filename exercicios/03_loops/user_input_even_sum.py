@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar 10 números e armazenar em uma lista;
     2. Criar nova lista com apenas os pares;
     3. Exibir a lista completa, os pares e a soma dos pares.
-
-Criado por: Bruna Loyola
-Data: 29/04/2025
 """
 
 #Declara duas listas vazias que serão tratadas 

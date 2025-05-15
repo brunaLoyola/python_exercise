@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar um número inteiro ao usuário;
     2. Calcular os próximos 10 números pares após esse valor;
     3. Exibir os números gerados.
-
-Criado por: Bruna Loyola
-Data: 04/05/2025
 """
 
 #Obtém um núemero e converte para inteiro

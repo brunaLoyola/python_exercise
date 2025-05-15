@@ -6,9 +6,6 @@ Etapas:
     1. Receber uma string como parâmetro;
     2. Verificar e contar as vogais presentes;
     3. Retornar o total de vogais.
-
-Criado por: Bruna Loyola
-Data: 30/04/2025
 """
 #Peça um nome
 nome = list(input("Digite seu nome:").lower())

@@ -7,9 +7,6 @@ Etapas:
     2. Criar nova lista com os quadrados dos números;
     3. Criar lista apenas com os números pares;
     4. Somar os números pares.
-
-Criado por: Bruna Loyola
-Data: 30/04/2025
 """
 
 

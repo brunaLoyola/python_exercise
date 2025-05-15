@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Criar função que verifica se nome começa com a letra "A";
     2. Criar função que inverte uma string.
-
-Criado por: Bruna Loyola  
-Data: 04/05/2025
 """
 def verfica_primeira_letra(nome):
     if nome[0] == 'a':

@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Verificar se um número fornecido pelo usuário está entre 10 e 20;
     2. Validar se o usuário é "admin" ou "root".
-
-Criado por: Bruna Loyola
-Data: 28/04/2025
 """
 
 #Obtém um número com o usuário e o converte para inteiro

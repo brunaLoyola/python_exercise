@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar dois números do usuário;
     2. Perguntar qual operação deseja realizar (+, -, *, /);
     3. Exibir o resultado da operação selecionada.
-
-Criado por: Bruna Loyola
-Data: 28/04/2025
 """
 
 #Obtém dois números

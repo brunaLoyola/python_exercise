@@ -7,9 +7,6 @@ Etapas:
     2. Filtrar os que possuem mais de 5 letras;
     3. Ordenar alfabeticamente;
     4. Retornar a nova lista.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 #Declarando listas vazias que serão utilizadas
 lista = []  #Lista com com todos os nomes

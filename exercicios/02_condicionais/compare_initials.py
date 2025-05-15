@@ -5,10 +5,8 @@ Objetivo:
 Etapas:
     1. Receber dois nomes;
     2. Verificar se começam com a mesma letra.
-
-Criado por: Bruna Loyola  
-Data: 02/05/2025
 """
+
 #Obtém dois nomes e transforma em letras minusculas
 primeiro_nome = input("Digite o primeiro nome: ").lower()
 segundo_nome = input("Digite o segundo nome: ").lower()

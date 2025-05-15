@@ -6,9 +6,6 @@ Etapas:
     1. Solicitar nome e idade de três usuários;
     2. Exibir todos os usuários cadastrados;
     3. Verificar quem é maior ou menor de idade.
-
-Criado por: Bruna Loyola
-Data: 01/05/2025
 """
 
 #Cadastre nome e idade de 3 pessoas usando listas aninhadas.

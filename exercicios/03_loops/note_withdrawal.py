@@ -5,9 +5,6 @@ Objetivo:
 Etapas:
     1. Solicitar um valor inteiro para saque;
     2. Determinar quantas notas de 100, 50, 20, 10, 5 e 1 podem ser entregues.
-
-Criado por: Bruna Loyola
-Data: 29/04/2025
 """
 
 #Obtém o valor a ser sacado

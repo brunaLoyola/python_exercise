@@ -8,9 +8,6 @@ Etapas:
     3. Exibir a lista de produtos cadastrados;
     4. Calcular e mostrar o total gasto;
     5. Informar qual foi o produto mais caro.
-
-Criado por: Bruna Loyola
-Data: 02/05/2025
 """
 
 produtos = int(input("Quantos produtos você deseja comprar: "))

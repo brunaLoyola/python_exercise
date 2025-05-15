@@ -7,9 +7,6 @@ Etapas:
     2. Inverter a frase;
     3. Separar palavras com split();
     4. Juntar com hífen.
-
-Criado por: Bruna Loyola  
-Data: 04/05/2025
 """
 
 #Obtém uma frase com o usuário e separa as palavras usando .split()
