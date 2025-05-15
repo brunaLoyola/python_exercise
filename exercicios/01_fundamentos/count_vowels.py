@@ -11,7 +11,7 @@ Criado por: Bruna Loyola
 Data: 30/04/2025
 """
 #Peça um nome
-nome = list(input("Digite seu nome:"))
+nome = list(input("Digite seu nome:").lower())
 
 #conta a quantidade de vogais somando com a função .count()
 vogais = nome.count('a') + nome.count('e') + nome.count('i') + nome.count('o') + nome.count('u')
